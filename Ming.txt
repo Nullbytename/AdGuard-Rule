@@ -127,10 +127,6 @@
 @@||member.9game.cn^
 #应用汇
 @@||mobile.appchina.com^
-#QQ浏览器
-#||game-acc.qqbrowser.qq.com^
-#||game.qqbrowser.qq.com^
-#||zixun.imtt.qq.com^
 #直播中国/中国广电
 #||5gtv.com.cn^
 #酷安
@@ -196,7 +192,6 @@
 ||ttunion.com^
 ||dig.zjurl.cn^
 ||ymmiyun.com^
-@@||gw.shouji.360.cn^
 ||whoami.akamai.net^
 ||img.pddpic.com^
 ||lpcdn.pinduoduo.com^
@@ -280,11 +275,9 @@
 ||adscore-api.biligame.net^
 ||unet.ucweb.com^
 ||ad-*.37.com.cn^
-@@||member.shouji.360.cn^
 ||adxcb.tjlanzhi.com.cn^
 ||zt.gifshow.com^
 ||image.uczzd.cn^
-@@||rdelivery.qq.com^
 ||*-reading-ad.qznovelvod.com^
 ||ad.qznovelvod.com^
 ||*-ad.searchpstatp.com^
@@ -315,7 +308,6 @@
 ||adbiding.cn^
 ||adbiding.com^
 ||openacs4uc.m.taobao.com^
-@@||gxh.material.qq.com^
 ||igexin.com^
 ||getui.com^
 ||getui.net^
@@ -325,16 +317,12 @@
 ||gepush.com^
 ||metrics-ad-drcn.dt.hihonorcloud.com^
 ||profile.z.qingting.fm^
-@@||issuecdn.baidupcs.com^
 ||xpis-xcdn.youku.com^
 ||stat-common.youku.com^
 @@||yun.tuia.cn^
 @@||polaris.zijieapi.com^
-@@||static-res.qq.com^
-@@||aeventlog.beacon.qq.com^
 @@||email-link.adtidy.info^
 ||frontier100-toutiao-lq.fqnovel.com^
-@@||xmaterial.tu.qq.com^
 ||api3-normal-lq.fqnovel.com^
 @@||zhanstatic.vivo.com.cn^
 ||hzhstb.com^
@@ -357,7 +345,6 @@
 ||lf26-cdn-tos.bytegeckoext.com^
 ||lf6-cdn-tos.bytegeckoext.com^
 ||ad.hunyuan.tencent.com^
-@@||tbsone.imtt.qq.com^
 ||p0.pipi.cn^
 ||vod.pipi.cn^
 ||lf-normal-gr-sourcecdn.bytegecko.com^
@@ -410,8 +397,6 @@
 ||yunxish.com^
 ||adtrack.qianwen.com^
 @@||union.gdtimg.com^
-@@||srv.android.shouji.sogou.com^
-@@||api-fp-retry-bj.fengkongcloud.com^
 ||sf3-cdn-tos.douyinstatic.com^
 ||api-dsp.8ziben.com^
 ||8ziben.com^
@@ -499,7 +484,6 @@
 ||adgain.cn^
 @@||update.avlyun.sec.miui.com^
 ||pixiu-sdk.quark.cn^
-@@||data.sec.miui.com^
 ||acs.youku.com^
 @@||tracker.xiaomixiaoai.com^
 ||dsp.ads.umeng.com^
