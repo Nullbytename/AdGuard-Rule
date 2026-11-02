@@ -20,6 +20,7 @@
 ||voiceads.cn^
 ||trrs-adp.2345.com^
 ||wiretap.adxtop.cn^
+||adxtop.cn^
 ||guangtuikeji.com^
 ||adsmartget.guangtuikeji.com^
 ||adx.szlzsd.com^
