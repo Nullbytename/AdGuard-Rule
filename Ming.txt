@@ -1,5 +1,5 @@
 ! Title: Ming
-!Description:
+!Description:DNS过滤
 !Homepage:https://github.com/Nullbytename/Ming
 #快对
 ||maplehaze.cn^
@@ -114,7 +114,7 @@
 @@||tnc3-bjlgy.zijieapi.com^
 #剪映
 @@||tnc3-bjlgy.bytedance.com^
-#306极速浏览器网页翻译
+#360极速浏览器网页翻译
 @@||gw.shouji.360.cn^
 #UC
 @@||m-api.uc.cn^
@@ -137,7 +137,7 @@
 #小米设置设备参数信息
 @@||port.sec.miui.com^
 #小米应用包管理组件
-@@||api.installer.xiaomi.com^
+#@@||api.installer.xiaomi.com^
 #小米钱包
 @@||t1.market.xiaomi.com^
 #小米社区签到验证
@@ -519,6 +519,7 @@
 ||wlad-sdk.weliads.com^
 ||weliads.com^
 ||advert.58.com^
+||adsdk.music.163.com^
 #v11-reading-ad.qznovelvod.com
 #v26-reading-ad.qznovelvod.com
 #v3-reading-ad.qznovelvod.com
