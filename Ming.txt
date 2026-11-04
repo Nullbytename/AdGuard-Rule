@@ -114,6 +114,8 @@
 @@||tnc3-bjlgy.zijieapi.com^
 #剪映
 @@||tnc3-bjlgy.bytedance.com^
+#306极速浏览器网页翻译
+@@||gw.shouji.360.cn^
 #UC
 @@||m-api.uc.cn^
 @@||drive.uc.cn^
