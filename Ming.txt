@@ -530,6 +530,8 @@
 ||fyadx.com^
 ||adx.roiplusad.com^
 ||roiplusad.com^
+||ssp-track.adn-plus.com.cn^
+||adn-plus.com.cn^
 #v11-reading-ad.qznovelvod.com
 #v26-reading-ad.qznovelvod.com
 #v3-reading-ad.qznovelvod.com
